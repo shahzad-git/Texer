@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#debc3b</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="iphone_style_message_dialog_background">#fefefe</color>
+    <color name="iphone_style_message_dialog_ok_button_color">#0877fd</color>
+    <color name="iphone_style_message_dialog_black_text_color">#000000</color>
+    <color name="iphone_style_message_dialog_seperator_line_color">#d6d6d6</color>
+
+    <color name="ApplicationMainYellow">#f9d342</color>
+    <color name="ApplicationTextColorBlack">#292826</color>
+    <color name="Black">#000000</color>
+    <color name="display_image_activity_background_color">#292826</color>
+    <color name="display_image_activity_edit_button_background_color">#f5f5f5</color>
+
+
+
+</resources>
